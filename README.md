@@ -1,4 +1,4 @@
-# Awesome Speech Enhancement
+# Speech Enhancement
 
 This repository summarizes the papers, codes, and tools for single-/multi-channel speech enhancement/speech separation. Welcome to pull requests.
 <!--TODO ...
